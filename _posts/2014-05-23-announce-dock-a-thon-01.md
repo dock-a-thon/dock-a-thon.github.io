@@ -5,7 +5,7 @@ date:   2014-05-23 17:11:19
 categories: announce
 ---
 
-みんなで流行りの [Docker](https://www.docker.io/) を使い倒す、どっか損なハッカソン。それが Dock-a-thon です。Docker に興味がある会津大生ならどなたでも参加することができます。
+会津大学のみんなで流行りの [Docker](https://www.docker.io/) を使い倒す、どっか損なハッカソン。それが Dock-a-thon です。Docker に興味がある会津大生ならどなたでも参加することができます。
 
 ## 0. "Docker" / "ハッカソン"って何ですか
 "Dockerとは何か？どこで使うべきか？"
