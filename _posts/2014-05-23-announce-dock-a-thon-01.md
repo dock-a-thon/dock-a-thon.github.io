@@ -22,6 +22,7 @@ https://sites.google.com/site/devreljp/Home/hackathon-in-a-box
 * 参加費: 無料
 * 対象: 会津大学の学生（学部生 / 大学院生）
 * 定員: 8名
+* 参加: http://atnd.org/events/51406
 
 ## 2. 予定
 
@@ -31,7 +32,7 @@ https://sites.google.com/site/devreljp/Home/hackathon-in-a-box
 * 17:30 - 反省会(*2) [30 min.]
 * 18:30 - Close Door
 
---
+---
 
 * (*1) Docker 入門: Docker の使い方を説明します。
 * (*2) 反省会: 何がいけなかったか神妙な顔つきで反省しましょう。
