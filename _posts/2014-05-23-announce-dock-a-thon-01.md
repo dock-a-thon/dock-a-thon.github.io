@@ -8,6 +8,10 @@ categories: announce
 会津大学のみんなで流行りの [Docker](https://www.docker.io/) を使い倒す、どっか損なハッカソン。それが Dock-a-thon です。Docker に興味がある会津大生ならどなたでも参加することができます。
 
 ## 0. "Docker" / "ハッカソン"って何ですか
+
+"今からでも間に合うDockerの基礎。コンテナとは何か、Dockerfileとは何か。"
+http://www.publickey1.jp/blog/14/dockerdockerfiledocker_meetup_tokyo_2.html
+
 "Dockerとは何か？どこで使うべきか？"
 http://deeeet.com/writing/2014/05/01/what-is-docker/
 
